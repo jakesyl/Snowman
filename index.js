@@ -1,3 +1,4 @@
+
 //capitalizing all constants
 var JS_FLAKES = 100,
     MIN_V = 1,
